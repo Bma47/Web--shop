@@ -30,8 +30,6 @@ A simple web shop application built using PHP, MySQL, and Bootstrap for listing 
 
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
-- Composer (optional, if you're using any PHP libraries)
-- A web server like Apache or Nginx
 
 ### Steps
 
